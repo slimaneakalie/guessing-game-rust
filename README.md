@@ -1,4 +1,4 @@
-# Guessing game in Rust
+# Simple guessing game in Rust
 
 ## Run
 ``cargo run``
